@@ -1,2 +1,8 @@
-글자 굵게하는법
+1. 글자 굵게하는법
 font-weight:bold
+
+2. 글자 흐릿하게 하는법:
+<input type="text" placeholder="이메일 또는 전화번호">
+      <input type="text" placeholder="비밀번호">
+      
+      
